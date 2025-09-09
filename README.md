@@ -6,15 +6,14 @@
 
 I’m from the UK 🇬🇧, currently based in Kent 🏡. I’m passionate about **artificial intelligence 🤖, esports 🎮, and building powerful applications 💻**. When I’m not coding, you’ll probably catch me in the gym 🏋️, competing in Rocket League tournaments 🚀, or tinkering with custom PC builds. I love learning and experimenting with new tech, from **machine learning models** to **full-stack projects**, and I’m always looking for ways to push myself further 🌟. 
 
-## 🔭 I’m currently working on
+<!--  ## 🔭 I’m currently working on //
 
 
 ## 🌱 I’m currently learning
 
+## 🛠️ I’ve contributed to -->
 
-## 🛠️ I’ve contributed to
-
-## 📫 How to reach me
+## 📫 How to reach me 
 
 <p align="start">
   <a href="https://discord.com/users/xxdanxnad">
